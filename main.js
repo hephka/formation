@@ -1,1 +1,2 @@
-console.log("Hello World !")
+let fname = "Franck";
+console.log("Hello " + fname + " !");
